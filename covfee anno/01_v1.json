@@ -1,0 +1,247 @@
+[
+    {
+        "start": 0.3,
+        "end": 7.32,
+        "category": "Gesture"
+    },
+    {
+        "start": 9.09,
+        "end": 14.52,
+        "category": "Gesture"
+    },
+    {
+        "start": 15.56,
+        "end": 16.88,
+        "category": "Gesture"
+    },
+    {
+        "start": 20.48,
+        "end": 27.91,
+        "category": "Gesture"
+    },
+    {
+        "start": 27.92,
+        "end": 28.02,
+        "category": "Gesture"
+    },
+    {
+        "start": 28.25,
+        "end": 30.35,
+        "category": "Gesture"
+    },
+    {
+        "start": 30.66,
+        "end": 32.32,
+        "category": "Gesture"
+    },
+    {
+        "start": 32.93,
+        "end": 47.21,
+        "category": "Gesture"
+    },
+    {
+        "start": 49.03,
+        "end": 52.55,
+        "category": "Gesture"
+    },
+    {
+        "start": 54.49,
+        "end": 58.73,
+        "category": "Gesture"
+    },
+    {
+        "start": 58.93,
+        "end": 65.99,
+        "category": "Gesture"
+    },
+    {
+        "start": 67.2,
+        "end": 68.37,
+        "category": "Gesture"
+    },
+    {
+        "start": 69.62,
+        "end": 75.17,
+        "category": "Gesture"
+    },
+    {
+        "start": 75.93,
+        "end": 76.68,
+        "category": "Toasting"
+    },
+    {
+        "start": 82.66,
+        "end": 83.48,
+        "category": "Gesture"
+    },
+    {
+        "start": 88.03,
+        "end": 90.02,
+        "category": "Nodding"
+    },
+    {
+        "start": 90.5,
+        "end": 93.69,
+        "category": "Nodding"
+    },
+    {
+        "start": 95.81,
+        "end": 97.64,
+        "category": "Nodding"
+    },
+    {
+        "start": 104.43,
+        "end": 106.06,
+        "category": "Nodding"
+    },
+    {
+        "start": 107.88,
+        "end": 108.84,
+        "category": "Nodding"
+    },
+    {
+        "start": 112.13,
+        "end": 113.27,
+        "category": "Nodding"
+    },
+    {
+        "start": 114.55,
+        "end": 117.04,
+        "category": "Nodding"
+    },
+    {
+        "start": 117.31,
+        "end": 117.61,
+        "category": "Gesture"
+    },
+    {
+        "start": 117.67,
+        "end": 118.18,
+        "category": "Nodding"
+    },
+    {
+        "start": 119.05,
+        "end": 120.57,
+        "category": "Gesture"
+    },
+    {
+        "start": 121.32,
+        "end": 121.68,
+        "category": "Gesture"
+    },
+    {
+        "start": 129.51,
+        "end": 131.02,
+        "category": "Nodding"
+    },
+    {
+        "start": 137.5,
+        "end": 138.83,
+        "category": "Nodding"
+    },
+    {
+        "start": 140.59,
+        "end": 144.94,
+        "category": "Nodding"
+    },
+    {
+        "start": 146.51,
+        "end": 147.9,
+        "category": "Nodding"
+    },
+    {
+        "start": 155.42,
+        "end": 156.73,
+        "category": "Nodding"
+    },
+    {
+        "start": 159.38,
+        "end": 160.37,
+        "category": "Nodding"
+    },
+    {
+        "start": 163.71,
+        "end": 166.24,
+        "category": "Nodding"
+    },
+    {
+        "start": 167.92,
+        "end": 168.72,
+        "category": "Nodding"
+    },
+    {
+        "start": 221.54,
+        "end": 226.55,
+        "category": "Gesture"
+    },
+    {
+        "start": 232.21,
+        "end": 232.83,
+        "category": "Nodding"
+    },
+    {
+        "start": 233.47,
+        "end": 233.86,
+        "category": "Nodding"
+    },
+    {
+        "start": 234.43,
+        "end": 235.45,
+        "category": "Nodding"
+    },
+    {
+        "start": 236.28,
+        "end": 239.14,
+        "category": "Nodding"
+    },
+    {
+        "start": 244.24,
+        "end": 244.7,
+        "category": "Nodding"
+    },
+    {
+        "start": 245.25,
+        "end": 246.05,
+        "category": "Nodding"
+    },
+    {
+        "start": 266.64,
+        "end": 268.12,
+        "category": "Nodding"
+    },
+    {
+        "start": 275.18,
+        "end": 276.6,
+        "category": "Nodding"
+    },
+    {
+        "start": 277.56,
+        "end": 279.89,
+        "category": "Gesture"
+    },
+    {
+        "start": 281.15,
+        "end": 282.8,
+        "category": "Gesture"
+    },
+    {
+        "start": 283.73,
+        "end": 284.16,
+        "category": "Gesture"
+    },
+    {
+        "start": 286.21,
+        "end": 286.81,
+        "category": "Nodding"
+    },
+    {
+        "start": 289.62,
+        "end": 290.6,
+        "category": "Gesture"
+    },
+    {
+        "start": 299.07,
+        "end": 299.99,
+        "category": "Toasting"
+    }
+]

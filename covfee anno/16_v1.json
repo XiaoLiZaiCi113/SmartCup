@@ -1,0 +1,107 @@
+[
+    {
+        "start": 1.37,
+        "end": 1.78,
+        "category": "Nodding"
+    },
+    {
+        "start": 9.8,
+        "end": 10.74,
+        "category": "Nodding"
+    },
+    {
+        "start": 17.14,
+        "end": 18.13,
+        "category": "Nodding"
+    },
+    {
+        "start": 19.99,
+        "end": 20.78,
+        "category": "Nodding"
+    },
+    {
+        "start": 43.44,
+        "end": 44.03,
+        "category": "Nodding"
+    },
+    {
+        "start": 49.1,
+        "end": 49.79,
+        "category": "Nodding"
+    },
+    {
+        "start": 53.34,
+        "end": 54.68,
+        "category": "Nodding"
+    },
+    {
+        "start": 60.25,
+        "end": 62.41,
+        "category": "Drinking"
+    },
+    {
+        "start": 97.27,
+        "end": 97.91,
+        "category": "Nodding"
+    },
+    {
+        "start": 115.96,
+        "end": 117.72,
+        "category": "Nodding"
+    },
+    {
+        "start": 146.35,
+        "end": 146.89,
+        "category": "Nodding"
+    },
+    {
+        "start": 148.39,
+        "end": 151.42,
+        "category": "Gesture"
+    },
+    {
+        "start": 152.05,
+        "end": 152.43,
+        "category": "Gesture"
+    },
+    {
+        "start": 154,
+        "end": 154.47,
+        "category": "Nodding"
+    },
+    {
+        "start": 155.3,
+        "end": 156.17,
+        "category": "Nodding"
+    },
+    {
+        "start": 180.37,
+        "end": 182.53,
+        "category": "Drinking"
+    },
+    {
+        "start": 196.78,
+        "end": 197.49,
+        "category": "Nodding"
+    },
+    {
+        "start": 219.73,
+        "end": 220.16,
+        "category": "Nodding"
+    },
+    {
+        "start": 225.87,
+        "end": 226.66,
+        "category": "Nodding"
+    },
+    {
+        "start": 229.74,
+        "end": 230.84,
+        "category": "Nodding"
+    },
+    {
+        "start": 278.89,
+        "end": 288.87,
+        "category": "Gesture"
+    }
+]
