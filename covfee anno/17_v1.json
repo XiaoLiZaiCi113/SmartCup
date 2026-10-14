@@ -72,7 +72,8 @@
     {
         "start": 97.88,
         "end": 99.16,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Both"
     },
     {
         "start": 104.63,
@@ -87,7 +88,8 @@
     {
         "start": 143.85,
         "end": 144.2,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Both"
     },
     {
         "start": 149.02,
@@ -107,12 +109,14 @@
     {
         "start": 152.94,
         "end": 154.3,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Both"
     },
     {
         "start": 154.82,
         "end": 156.12,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 161.39,
@@ -122,17 +126,20 @@
     {
         "start": 181.16,
         "end": 181.73,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 186.29,
         "end": 187.72,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 189.27,
         "end": 189.95,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 214.23,
@@ -167,7 +174,8 @@
     {
         "start": 258.05,
         "end": 261.25,
-        "category": "Drinking"
+        "category": "Drinking",
+        "hand": "Right with cup"
     },
     {
         "start": 271.68,

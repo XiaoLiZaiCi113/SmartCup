@@ -12,7 +12,8 @@
     {
         "start": 6.44,
         "end": 6.74,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 8.56,
@@ -102,12 +103,14 @@
     {
         "start": 75.93,
         "end": 76.61,
-        "category": "Toasting"
+        "category": "Toasting",
+        "hand": "Right with cup"
     },
     {
         "start": 84.26,
         "end": 85.54,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 89.57,
@@ -117,12 +120,20 @@
     {
         "start": 94.42,
         "end": 95.42,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right with cup"
     },
     {
         "start": 99.61,
+        "end": 111,
+        "category": "Gesture",
+        "hand": "Left without cup"
+    },
+    {
+        "start": 111,
         "end": 116.12,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Both"
     },
     {
         "start": 117.58,
@@ -132,22 +143,26 @@
     {
         "start": 136.42,
         "end": 141.2,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 153.64,
         "end": 160.2,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 161.7,
         "end": 166.34,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 194.79,
         "end": 195.31,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
         "start": 209.42,
@@ -167,12 +182,14 @@
     {
         "start": 227.13,
         "end": 229.61,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 230.96,
         "end": 232.98,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 233.11,
@@ -186,18 +203,21 @@
     },
     {
         "start": 236.06,
+        "end": 237,
+        "category": "Gesture",
+        "hand": "Left without cup"
+    },
+    {
+        "start": 237,
         "end": 239.63,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Both"
     },
     {
         "start": 240.26,
         "end": 244.2,
-        "category": "Gesture"
-    },
-    {
-        "start": 245.13,
-        "end": 245.22,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 245.27,
@@ -207,7 +227,8 @@
     {
         "start": 246.4,
         "end": 249.08,
-        "category": "Drinking"
+        "category": "Drinking",
+        "hand": "Right with cup"
     },
     {
         "start": 256.31,
@@ -217,22 +238,32 @@
     {
         "start": 267.28,
         "end": 268.49,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 268.8,
-        "end": 279.35,
-        "category": "Gesture"
+        "end": 273,
+        "category": "Gesture",
+        "hand": "Right without cup"
+    },
+    {
+        "start": 273,
+        "end": 275,
+        "category": "Gesture",
+        "hand": "Both"
     },
     {
         "start": 283.39,
         "end": 285.98,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
         "start": 286.45,
         "end": 288.58,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
         "start": 293.18,
@@ -242,11 +273,13 @@
     {
         "start": 295.67,
         "end": 297.21,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 299.05,
         "end": 300.14,
-        "category": "Toasting"
+        "category": "Toasting",
+        "hand": "Right with cup"
     }
 ]

@@ -1,78 +1,105 @@
 [
-    {
+        {
         "start": 0.3,
+        "end": 3,
+        "category": "Gesture",
+        "hand": "Both"
+    },
+    {
+        "start": 3,
         "end": 7.32,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 9.09,
         "end": 14.52,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 15.56,
         "end": 16.88,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
         "start": 20.48,
         "end": 27.91,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
         "start": 27.92,
         "end": 28.02,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
         "start": 28.25,
         "end": 30.35,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
         "start": 30.66,
         "end": 32.32,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 32.93,
         "end": 47.21,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 49.03,
+        "end": 51,
+        "category": "Gesture",
+        "hand": "Left without cup"
+    },
+    {
+        "start": 51,
         "end": 52.55,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Both"
     },
     {
         "start": 54.49,
         "end": 58.73,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 58.93,
-        "end": 65.99,
-        "category": "Gesture"
+        "end": 60,
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
-        "start": 67.2,
-        "end": 68.37,
-        "category": "Gesture"
+        "start": 62,
+        "end": 65,
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
-        "start": 69.62,
-        "end": 75.17,
-        "category": "Gesture"
+        "start": 67,
+        "end": 68,
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 75.93,
         "end": 76.68,
-        "category": "Toasting"
+        "category": "Toasting",
+        "hand": "Right without cup"
     },
     {
         "start": 82.66,
         "end": 83.48,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 88.03,
@@ -112,7 +139,8 @@
     {
         "start": 117.31,
         "end": 117.61,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 117.67,
@@ -122,12 +150,14 @@
     {
         "start": 119.05,
         "end": 120.57,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 121.32,
         "end": 121.68,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 129.51,
@@ -172,7 +202,8 @@
     {
         "start": 221.54,
         "end": 226.55,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Right without cup"
     },
     {
         "start": 232.21,
@@ -217,17 +248,20 @@
     {
         "start": 277.56,
         "end": 279.89,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 281.15,
         "end": 282.8,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 283.73,
         "end": 284.16,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 286.21,
@@ -237,11 +271,13 @@
     {
         "start": 289.62,
         "end": 290.6,
-        "category": "Gesture"
+        "category": "Gesture",
+        "hand": "Left without cup"
     },
     {
         "start": 299.07,
         "end": 299.99,
-        "category": "Toasting"
+        "category": "Toasting",
+        "hand": ""
     }
 ]
