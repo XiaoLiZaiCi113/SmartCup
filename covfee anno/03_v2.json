@@ -1,25 +1,5 @@
 [
     {
-        "start": 26.9,
-        "end": 26.97,
-        "category": "Uncertain"
-    },
-    {
-        "start": 27.44,
-        "end": 27.52,
-        "category": "Uncertain"
-    },
-    {
-        "start": 29.38,
-        "end": 29.38,
-        "category": "Uncertain"
-    },
-    {
-        "start": 29.38,
-        "end": 29.38,
-        "category": "Uncertain"
-    },
-    {
         "start": 21.74,
         "end": 23,
         "category": "Nodding"
@@ -40,7 +20,7 @@
         "start": 64,
         "end": 68.19,
         "category": "Gesture",
-        "hand": "Right without cup, Left with cup"
+        "hand": "Left with cup, Right without cup"
     },
     {
         "start": 72.03,
@@ -135,7 +115,7 @@
         "start": 213,
         "end": 215.26,
         "category": "Gesture",
-        "hand": "Right without cup, Left with cup"
+        "hand": "Left with cup, Right without cup"
     },
     {
         "start": 215.52,
@@ -147,7 +127,7 @@
         "start": 220.65,
         "end": 228.2,
         "category": "Gesture",
-        "hand": "Right without cup, Left with cup"
+        "hand": "Left with cup, Right without cup"
     },
     {
         "start": 238.11,
@@ -188,7 +168,7 @@
         "start": 292.15,
         "end": 295.4,
         "category": "Gesture",
-        "hand": "Right without cup, Left with cup"
+        "hand": "Left with cup, Right without cup"
     },
     {
         "start": 295.77,

@@ -73,7 +73,7 @@
         "start": 97.88,
         "end": 99.16,
         "category": "Gesture",
-        "hand": "Right with cup, Left without cup"
+        "hand": "Left without cup, Right with cup"
     },
     {
         "start": 104.63,
@@ -89,7 +89,7 @@
         "start": 143.85,
         "end": 144.2,
         "category": "Gesture",
-        "hand": "Right without cup, Left with cup"
+        "hand": "Left with cup, Right without cup"
     },
     {
         "start": 149.02,
@@ -110,7 +110,7 @@
         "start": 152.94,
         "end": 154.3,
         "category": "Gesture",
-        "hand": "Right with cup, Left without cup"
+        "hand": "Left without cup, Right with cup"
     },
     {
         "start": 154.82,

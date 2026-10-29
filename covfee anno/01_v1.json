@@ -93,7 +93,7 @@
         "start": 75.93,
         "end": 76.68,
         "category": "Toasting",
-        "hand": "Right without cup"
+        "hand": "Right with cup"
     },
     {
         "start": 82.66,
@@ -278,6 +278,6 @@
         "start": 299.07,
         "end": 299.99,
         "category": "Toasting",
-        "hand": ""
+        "hand": "Right with cup"
     }
 ]
