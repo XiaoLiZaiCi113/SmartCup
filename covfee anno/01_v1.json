@@ -3,7 +3,7 @@
         "start": 0.3,
         "end": 3,
         "category": "Gesture",
-        "hand": "Both"
+        "hand": "Left without cup, Right with cup"
     },
     {
         "start": 3,
@@ -63,7 +63,7 @@
         "start": 51,
         "end": 52.55,
         "category": "Gesture",
-        "hand": "Both"
+        "hand": "Left without cup, Right with cup"
     },
     {
         "start": 54.49,
